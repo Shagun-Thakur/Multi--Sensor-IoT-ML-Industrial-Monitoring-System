@@ -534,7 +534,7 @@ if page == "Live Monitor":
                 with alert_placeholder.container():
                     st.markdown("""
                         <div class="alert-yellow">
-                            <div class="alert-title">⚠ ARDUINO NOT CONNECTED</div>
+                            <div class="alert-title">⚠ ARDUINO NOT CONNECTED <br> "Note: Hardware connection (Arduino) requires the app to be running locally. For the online demo, please use the Simulated Data mode."</div>
                             <div class="alert-body">
                                 Select a port and click <strong>Connect</strong> in the sidebar.
                             </div>
