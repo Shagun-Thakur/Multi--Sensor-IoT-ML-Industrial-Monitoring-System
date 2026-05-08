@@ -13,7 +13,7 @@ Before breakdown, small physical changes begin to appear in parameters like:
 - acoustic behaviour
 Those samll deviations are usually ignored until they become expensive.
 This project is built to answer a simple question:
-#### Can we detect machine degradation early enough to act before failure?
+## Can we detect machine degradation early enough to act before failure?
 
 ----
 
@@ -34,6 +34,7 @@ This project is built to answer a simple question:
 - anomaly logs
 - CSV export
 
+🚨LIVE DEMO: [Streamlit App](https://multi--sensor-iot-ml-industrial-monitoring-system-nnsg4rdazrft.streamlit.app/)
 ----
 
 ### System Architecture
