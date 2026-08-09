@@ -251,6 +251,6 @@ temperature, vibration, sound
 
 ----
 
-### Authors
+### Author
 - [Shagun Thakur](https://github.com/Shagun-Thakur)
-- [Sakshi Rana](https://github.com/Sakshi-zz)
+
